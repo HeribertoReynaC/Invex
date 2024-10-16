@@ -18,10 +18,9 @@ Asegúrate de tener instalados los siguientes programas:
 
 ## Instalación y configuración
 
-### 1. Clonar el repositorio
+### 1. Clonar el repositorio en tu PC
 ```bash
-git clone https://github.com/tu_usuario/gestion-empleados.git
-cd gestion-empleados
+git clone https://github.com/HeribertoReynaC/Invex.git
 
 ### 2. Configurar la base de datos
 CREATE DATABASE invex;
